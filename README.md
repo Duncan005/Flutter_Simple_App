@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **Simple App**
 
 This Flutter application demonstrates the implementation of a basic mobile app with a splash screen, login page, and home page. The app utilizes Flutter's material library for UI components and navigation.
@@ -34,3 +35,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 **Acknowledgments:**
 Special thanks to the Flutter team for providing such a versatile framework for building beautiful mobile applications.
+=======
+# Flutter_Simple_App
+>>>>>>> 7e5884ac3e808759687faae66f8564cdb5ee977d
