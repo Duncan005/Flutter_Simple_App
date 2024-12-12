@@ -16,7 +16,7 @@ The app starts with a splash screen featuring a logo, followed by a login page w
 1. Ensure you have Flutter SDK installed on your system. If not, follow the installation instructions [here](https://flutter.dev/docs/get-started/install).
 2. Clone the repository:
    ```
-   git clone https://github.com/IsaacZachary/Flutter_Simple_App.git
+   https://github.com/Duncan005/Flutter_Simple_App.git
    ```
 3. Navigate to the project directory:
    ```
